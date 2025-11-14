@@ -100,4 +100,7 @@ This will create a git folder.
 >git fetch origin
 >git checkout -b main
 
+Now Close your Visual Studio and take a new clone in ither folder
+git clone https://github.com/RahulKatu/Project-1.git
+
 ***************************************************************GIT END
